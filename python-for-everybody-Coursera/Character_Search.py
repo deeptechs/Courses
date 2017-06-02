@@ -1,4 +1,4 @@
-fh = open("mbox-short.txt", "r")
+fh = open("Sample_Text.txt", "r")
 
 #print fh.read()
 
