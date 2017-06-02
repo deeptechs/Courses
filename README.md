@@ -1,1 +1,3 @@
-# python-for-everybody-Coursera
+# Courses
+
+Code samples for the courses I have taken.
