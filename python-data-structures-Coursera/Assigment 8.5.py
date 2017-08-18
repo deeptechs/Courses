@@ -1,4 +1,4 @@
-fname = input("Enter file name: ")
+fname = raw_input("Enter file name: ")
 if len(fname) < 1 : fname = "mbox-short.txt"
 
 fh = open(fname)
