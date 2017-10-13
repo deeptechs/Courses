@@ -1,4 +1,4 @@
-import urllib.request, urllib.parse
+import urllib.request
 import xml.etree.ElementTree as xm
 
 html = urllib.request.urlopen("http://py4e-data.dr-chuck.net/comments_11846.xml")
